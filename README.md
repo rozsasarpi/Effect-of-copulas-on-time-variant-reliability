@@ -4,7 +4,28 @@ The effect of copulas on time-variant reliability
 In progress research codes... for collaborative coding, open and reproducible research.
 
 Investigation of the effect of [copulas](https://en.wikipedia.org/wiki/Copula_(probability_theory)) on time-variant reliability involving time-continuous stochastic processes. 
-After the research has been completed the code will be organized(?) and accompanied with a report or paper.
+
+Related paper:
+
+@article{Rózsás201794,  
+	title = "The effect of copulas on time-variant reliability involving time-continuous stochastic processes ",  
+	journal = "Structural Safety ",  
+	volume = "66",  
+	number = "",  
+	pages = "94 - 105",  
+	year = "2017",  
+	note = "",  
+	issn = "0167-4730",  
+	doi = "http://dx.doi.org/10.1016/j.strusafe.2017.02.004",  
+	url = "http://www.sciencedirect.com/science/article/pii/S0167473016300947",  
+	author = "Árpád Rózsás and Zsuzsa Mogyorósi",  
+	keywords = "Time-variant",  
+	keywords = "Copula",  
+	keywords = "Dependence",  
+	keywords = "PHI2 method",  
+	keywords = "Reliability analysis",  
+	keywords = "Stochastic process "  
+}
 
 __Codes:__ Matlab, R
 
